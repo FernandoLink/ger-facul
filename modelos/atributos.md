@@ -3,8 +3,7 @@
 ## Aluno
 
 - Número de Matrícula
-- Nome
-- Sobrenome
+- Nome do Aluno
 - Endereço
   * Rua
   * Número
@@ -13,13 +12,22 @@
   * Cidade
   * Estado
 - Código do Curso
+- CPF
+- Status
+- Filiação
+- Sexo
+- Telefone
+- Contato
+  * Whatsapp
+  * E-mail
+- Código da Turma
 
 ## Professor
 
 - Código do Professor
-- Nome
-- Sobrenome
+- Nome do Professor
 - Código do Departamento
+- Status
 
 ## Disciplina
 
@@ -28,6 +36,7 @@
 - Descrição Curricular
 - Código do Departamento
 - Número de Alunos
+- Carga Horária
 
 ## Curso
 
@@ -39,4 +48,23 @@
 
 - Código do Departamento
 - Nome do Departamento
+
+## Histórico
+
+- Código do histórico
+- Notas
+- Média
+- Frequência
+- Período de Realização
+- Número de Matrícula
+- Código da Disciplina
+
+## Turma
+
+- Código da Turma
+- Período
+- Código do Curso
+- Número de Alunos
+- Data de Início
+- Data de Fim
 

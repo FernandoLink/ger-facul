@@ -4,4 +4,6 @@
 - Professor;
 - Disciplina;
 - Curso;
-- Departamento.
+- Departamento;
+- Histórico;
+- Turma.
